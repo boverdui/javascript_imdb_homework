@@ -27,7 +27,7 @@ class MovieBox extends Component {
         <h3>UK Opening This Week</h3>
         <MovieList
           data={ this.state.data }>
-        </MovieList>/>
+        </MovieList>
         <p><a href='http://whatever'>See more opening this week >></a></p>
         <hr/>
         <h3><a href='http://whatever'>Get Showtimes >></a></h3>
